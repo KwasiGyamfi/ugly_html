@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(245, 215, 49);
+    background-color: rgb(89, 89, 230);
+    font-family: 'Times New Roman';
+}
+
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pokemon_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+.charmander_container p{
+    background-color: green;
+
+}
+
+#starters_image_div img{
+    border: 10px solid rgb(89, 89, 230);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
